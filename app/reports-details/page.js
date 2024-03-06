@@ -26,8 +26,10 @@ function ReportsDetails() {
         <div className="flex justify-center">
           <button className="border border-solid border-[#A91A1A] rounded px-6 mt-8 py-2 box-shadow-small-two flex items-center">
             <Link
-              href={""}
-              download="/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"
+              href={"/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"}
+              rel="noopener noreferrer"
+              download
+              locale={false}
               target="_blank"
               className="flex items-center"
             >

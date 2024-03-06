@@ -158,8 +158,10 @@ export default function Home() {
                   </ul>
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
-                      href={""}
-                      download="/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"
+                      href={"/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"}
+                      rel="noopener noreferrer"
+                      download
+                      locale={false}
                       target="_blank"
                       className="flex items-center"
                     >
