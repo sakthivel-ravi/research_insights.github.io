@@ -100,7 +100,7 @@ export default function Home() {
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
                       href={""}
-                      download="/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"
+                      download="/econs-msia-february_cpi-midf-250324.pdf"
                       target="_blank"
                       className="flex items-center"
                     >
@@ -158,7 +158,7 @@ export default function Home() {
                   </ul>
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
-                      href={"/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"}
+                      href={"/econs-msia-february_cpi-midf-250324.pdf"}
                       rel="noopener noreferrer"
                       download
                       locale={false}
@@ -218,7 +218,7 @@ export default function Home() {
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
                       href={""}
-                      download="/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"
+                      download="/econs-msia-february_cpi-midf-250324.pdf"
                       target="_blank"
                       className="flex items-center"
                     >
@@ -275,7 +275,7 @@ export default function Home() {
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
                       href={""}
-                      download="/Fund-Flow-Report-Week-25-Mar-MIDF-280322.pdf"
+                      download="/econs-msia-february_cpi-midf-250324.pdf"
                       target="_blank"
                       className="flex items-center"
                     >
