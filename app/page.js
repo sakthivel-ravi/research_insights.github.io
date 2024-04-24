@@ -72,11 +72,11 @@ export default function Home() {
                   className="cursor-pointer w-full"
                 />
                 <div className="text-center mt-5">
-                  <h4 className="text-base text-primary font-medium">
-                    FUND FLOW REPORT
+                  <h4 className="text-base text-primary font-medium uppercase">
+                    Resilient Business Segment
                   </h4>
                   <p className="text-sm text-secondary font-light">
-                    Week ended 09 February 2024
+                    21 March 2024 Banking - FSR 2H23-Resilient Business Segment
                   </p>
                 </div>
               </div>
@@ -99,10 +99,14 @@ export default function Home() {
                   </ul>
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
-                      href={""}
-                      download="/econs-msia-february_cpi-midf-250324.pdf"
+                      href={
+                        "/banking-fsr_2h23-resilient_business_segment-midf-210324.pdf"
+                      }
+                      download
                       target="_blank"
                       className="flex items-center"
+                      rel="noopener noreferrer"
+                      locale={false}
                     >
                       <Image
                         src={downloadIcon}
@@ -129,12 +133,11 @@ export default function Home() {
                   className="cursor-pointer w-full"
                 />
                 <div className="text-center mt-5">
-                  <h4 className="text-base text-primary font-medium">
-                    FIXED INCOME REVIEW
+                  <h4 className="text-base text-primary font-medium uppercase">
+                    Rising of Puchong
                   </h4>
                   <p className="text-sm text-secondary font-light">
-                    09 February 2024 : 10-Year MGS Yield Rose, Mirroring 10-Year
-                    UST Yield
+                    20 March 2024 Property - Thematic-Rising of Puchong
                   </p>
                 </div>
               </div>
@@ -158,7 +161,9 @@ export default function Home() {
                   </ul>
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
-                      href={"/econs-msia-february_cpi-midf-250324.pdf"}
+                      href={
+                        "/property-thematic-rising_of_puchong-midf-200324.pdf"
+                      }
                       rel="noopener noreferrer"
                       download
                       locale={false}
@@ -190,11 +195,12 @@ export default function Home() {
                   className="cursor-pointer w-full"
                 />
                 <div className="text-center mt-5">
-                  <h4 className="text-base text-primary font-medium">
-                    ECONOMIC REVIEW
+                  <h4 className="text-base text-primary font-medium uppercase">
+                    PETRONAS Positive on Sector
                   </h4>
                   <p className="text-sm text-secondary font-light">
-                    9 February 2024 : December 2023 Labour Market
+                    18 March 2024 OG - Quick Thoughts-PETRONAS Positive on
+                    Sector but Sees Headwinds in FY24
                   </p>
                 </div>
               </div>
@@ -217,10 +223,14 @@ export default function Home() {
                   </ul>
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
-                      href={""}
-                      download="/econs-msia-february_cpi-midf-250324.pdf"
+                      href={
+                        "/o_g-quick_thoughts-petronas_positive_on_sector_but_ssees_headwinds_in_fy24-midf-180324.pdf"
+                      }
+                      download
                       target="_blank"
                       className="flex items-center"
+                      locale={false}
+                      rel="noopener noreferrer"
                     >
                       <Image
                         src={downloadIcon}
@@ -247,11 +257,12 @@ export default function Home() {
                   className="cursor-pointer w-full"
                 />
                 <div className="text-center mt-5">
-                  <h4 className="text-base text-primary font-medium">
-                    DISTRIBUTIVE TRADE
+                  <h4 className="text-base text-primary font-medium uppercase">
+                    Positive Dynamics Drove Traffic Surge
                   </h4>
                   <p className="text-sm text-secondary font-light px-4">
-                    8 February 2024 : December 2023 Distributive Trade
+                    18 March 2024 Aviation - Positive Dynamics Drove Traffic
+                    Surge
                   </p>
                 </div>
               </div>
@@ -274,10 +285,14 @@ export default function Home() {
                   </ul>
                   <button className="bg-white px-3 py-2 mt-3 rounded text-sm">
                     <Link
-                      href={""}
-                      download="/econs-msia-february_cpi-midf-250324.pdf"
+                      href={
+                        "/aviation-positive_dynamics_drove_traffic_surge-midf-180324.pdf"
+                      }
+                      download
                       target="_blank"
                       className="flex items-center"
+                      locale={false}
+                      rel="noopener noreferrer"
                     >
                       <Image
                         src={downloadIcon}

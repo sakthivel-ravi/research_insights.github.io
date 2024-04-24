@@ -16,17 +16,19 @@ function ReportsDetails() {
     <section className="">
       <div className="bg-landing-banner pt-28 pb-40">
         <h1 className="text-textblack font-bold text-[64px] text-center">
-          Fund Flow Report
+          Resilient Business Segment
         </h1>
         <div>
-          <h2 className="text-[18px] text-center w-[22%] text-secondary font-light m-auto mt-10">
-            (Week ended 9 February 2024)
+          <h2 className="text-[18px] text-center text-secondary font-light m-auto mt-10">
+            (21 March 2024 Banking - FSR 2H23-Resilient Business Segment)
           </h2>
         </div>
         <div className="flex justify-center">
           <button className="border border-solid border-[#A91A1A] rounded px-6 mt-8 py-2 box-shadow-small-two flex items-center">
             <Link
-              href={"/econs-msia-february_cpi-midf-250324.pdf"}
+              href={
+                "/banking-fsr_2h23-resilient_business_segment-midf-210324.pdf"
+              }
               rel="noopener noreferrer"
               download
               locale={false}
